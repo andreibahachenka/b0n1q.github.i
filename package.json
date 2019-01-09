@@ -1,0 +1,32 @@
+{
+  "name": "frontcamp",
+  "version": "1.0.0",
+  "description": "mentoring program",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-es2018": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel es2015.js -o es5.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0n1q/FrontCamp.git"
+  },
+  "keywords": [
+    "any",
+    "keyword"
+  ],
+  "author": "Andrei Bahachenka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0n1q/FrontCamp/issues"
+  },
+  "homepage": "https://github.com/b0n1q/FrontCamp#readme"
+}
