@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/b0n1q/FrontCamp.git"
+    "url": "git+https://github.com/b0n1q/b0n1q.github.io"
   },
   "keywords": [
     "any",
@@ -26,7 +26,7 @@
   "author": "Andrei Bahachenka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/b0n1q/FrontCamp/issues"
+    "url": "https://github.com/b0n1q/b0n1q.github.io/issues"
   },
-  "homepage": "https://github.com/b0n1q/FrontCamp#readme"
+  "homepage": "https://github.com/b0n1q/b0n1q.github.io#readme"
 }
