@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+    devtool: 'source-map',
     entry: 'es2015.js',
     output: {
         path: path.join(__dirname, 'dist'),

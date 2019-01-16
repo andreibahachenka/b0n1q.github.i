@@ -13,12 +13,14 @@
     "babel-preset-es2017": "^6.24.1",
     "babel-preset-es2018": "^1.0.0",
     "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "babel es2015.js -o es5.js",
-    "build": "webpack"
+    "build": "webpack",
+    "dev": "webpack-dev-server --inline --hot"
   },
   "repository": {
     "type": "git",
